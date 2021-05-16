@@ -9,4 +9,4 @@ client.events = new Discord.Collection();
 })
 
 
-client.login('ODE4NjMyMTk1MjMyNzU5ODI4.YEa4pA.sCCLWA3fJ0r8XtvsPRfCkajp5o0');
+client.login('ODE4NjMyMTk1MjMyNzU5ODI4.YEa4pA.TSlNqRPq4Hbj3yn8ki4rwyT7tgs');
